@@ -1,2 +1,13 @@
 .idea/
 *.csv
+/output
+.DS_Store
+.vscode/settings.json
+__pycache__/create_data.cpython-38.pyc
+__pycache__/create_data.cpython-39.pyc
+__pycache__/performance_model_dataset.cpython-38.pyc
+__pycache__/performance_model_dataset.cpython-39.pyc
+/output_2021_2023_Full
+/output_aaaaa
+/output_alt_3
+/output_alt_4

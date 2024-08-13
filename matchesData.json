@@ -1,0 +1,22 @@
+{
+  "goals": "0",
+  "shots": "4",
+  "xG": "0.9477797150611877",
+  "time": "90",
+  "position": "FW",
+  "h_team": "Manchester City",
+  "a_team": "West Ham",
+  "h_goals": "3",
+  "a_goals": "1",
+  "date": "2024-05-19",
+  "id": "22273",
+  "season": "2023",
+  "roster_id": "662999",
+  "xA": "0",
+  "assists": "0",
+  "key_passes": "0",
+  "npg": "0",
+  "npxG": "0.9477797150611877",
+  "xGChain": "0.5510027408599854",
+  "xGBuildup": "0.26654958724975586"
+}

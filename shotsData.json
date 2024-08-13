@@ -1,0 +1,22 @@
+{
+  "id": "354876",
+  "minute": "58",
+  "result": "Goal",
+  "X": "0.8880000305175781",
+  "Y": "0.6659999847412109",
+  "xG": "0.07933320105075836",
+  "player": "Erling Haaland",
+  "h_a": "a",
+  "player_id": "8260",
+  "situation": "OpenPlay",
+  "season": "2019",
+  "shotType": "LeftFoot",
+  "match_id": "12562",
+  "h_team": "Augsburg",
+  "a_team": "Borussia Dortmund",
+  "h_goals": "3",
+  "a_goals": "5",
+  "date": "2020-01-18 14:30:00",
+  "player_assisted": "Jadon Sancho",
+  "lastAction": "Throughball"
+}
